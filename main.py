@@ -206,13 +206,13 @@ def send_start(
                 [
                     InlineKeyboardButton(
                         "🌐 Source Code",
-                        url="https://github.com/bipinkrish/Link-Bypasser-Bot",
+                        url="https://t.me/+To8YDwPUig00NzFl",
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "Replit",
-                        url="https://replit.com/@bipinkrish/Link-Bypasser#app.py",
+                        "Update Channel",
+                        url="https://t.me/aurabotupdates",
                     )
                 ],
             ]
