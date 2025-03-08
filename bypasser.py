@@ -2654,7 +2654,7 @@ def shortners(url):
     # xpshort
     elif (
         "https://xpshort.com/" in url
-        or "https://push.bdnewsx.com/" in url
+        or "https://newsvsp.com/" in url
         or "https://techymozo.com/" in url
     ):
         print("entered xpshort: ", url)
